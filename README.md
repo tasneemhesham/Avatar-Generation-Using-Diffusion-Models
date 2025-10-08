@@ -63,7 +63,7 @@ cd Avatar-Generation-Using-Diffusion-Models
 ### 3. Run the Notebook
 
 ```bash
-jupyter notebook avatar_generation.ipynb
+jupyter notebook text_to_avatar.ipynb
 ```
 ---
 
