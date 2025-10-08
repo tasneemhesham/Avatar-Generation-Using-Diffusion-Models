@@ -70,7 +70,7 @@ jupyter notebook avatar_generation.ipynb
 ## Sample Results
 
 <p align="center">
-  <img src="samples/beach.png" width="200"/> 
+  <img src="samples/beach.jpg" width="200"/> 
   <img src="samples/bookworm.png" width="200"/> 
   <img src="samples/confident.png" width="200"/> 
 </p>
