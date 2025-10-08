@@ -71,18 +71,18 @@ jupyter notebook avatar_generation.ipynb
 
 <p align="center">
   <img src="samples/beach.jpg" width="200"/> 
-  <img src="samples/bookworm.png" width="200"/> 
-  <img src="samples/confident.png" width="200"/> 
+  <img src="samples/bookworm.jpg" width="200"/> 
+  <img src="samples/confident.jpg" width="200"/> 
 </p>
 <p align="center">
-  <img src="samples/fairy.png" width="200"/> 
-  <img src="samples/happy.png" width="200"/> 
-  <img src="samples/middle-eastern.png" width="200"/> 
+  <img src="samples/fairy.jpg" width="200"/> 
+  <img src="samples/happy.jpg" width="200"/> 
+  <img src="samples/middle-eastern.jpg" width="200"/> 
 </p>
 <p align="center">
-  <img src="samples/rockstar.png" width="200"/> 
-  <img src="samples/victorian.png" width="200"/> 
-  <img src="samples/old.png" width="200"/> 
+  <img src="samples/rockstar.jpg" width="200"/> 
+  <img src="samples/victorian.jpg" width="200"/> 
+  <img src="samples/old.jpg" width="200"/> 
 </p>
 
 ---
